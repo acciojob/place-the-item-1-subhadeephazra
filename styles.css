@@ -8,7 +8,8 @@
 
 .item {
   /* Adjust the width as needed */
-  width: 150px;
+  width: 100px;
+  height: 100px;
   /* Add space between items */
   margin: 10px;
   /* Optional: Add styling for the items */
